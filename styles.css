@@ -12,14 +12,14 @@ body {
 }
 
 .container {
-    max-width: 1200px;
+    max-width: 1800px;
     margin: 0 auto;
     padding: 20px;
 }
 
 /* Header styles */
 header {
-    background-color: #3333;
+    background-color: #33333;
     color: #fff;
     padding: 20px 0;
 }
