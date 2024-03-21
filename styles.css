@@ -18,7 +18,15 @@ body {
 }
 
 /* Header styles */
-header {
+header 
+{
+  font-family: "Marck Script", cursive;
+  font-weight: 400;
+  color: #fff;
+  font-style: normal;
+font-size: 30px;
+}
+{
     background-color: #33333;
     color: #fff;
     padding: 20px 0;
